@@ -53,3 +53,10 @@ data/
 *.idx
 *.log
 .check.grib2
+
+# OS files
+.DS_Store
+
+# Local SQLite databases
+local_weather.db
+
